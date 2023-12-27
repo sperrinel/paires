@@ -1,0 +1,7 @@
+{
+  "name": "jeuPaires",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
